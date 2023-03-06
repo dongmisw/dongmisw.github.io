@@ -1,6 +1,7 @@
 # dongmisw.github.io
 동미의 소프트웨어 개발 성장기
 
+git push complete
 
 [Naver 바로가기](https://www.naver.com)<br>
 
