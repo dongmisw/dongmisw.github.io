@@ -1,6 +1,10 @@
 # dongmisw.github.io
 동미의 소프트웨어 개발 성장기
 
+# 수행 프로젝트
+## [AI기반 파이썬 프로젝트](https://dongmisw.github.io/helloworld)
+## [spring 프로젝트](https://dongmisw.github.io/helloworld)
+
 git push complete
 
 [Naver 바로가기](https://www.naver.com)<br>
