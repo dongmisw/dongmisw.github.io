@@ -1,7 +1,5 @@
 # dongmisw.github.io
 동미의 소프트웨어 개발 성장기
-# 13시30분 수정 완료
-# 11시53분 수정함
 
 # 🥗 밀키트(Meal Kit) 사업 플랫폼
 
@@ -106,23 +104,4 @@
 > **문의:** contact@mealkit.com  
 > © 2025 MealKit Team. All Rights Reserved.
 
-
-
-
-
-
-
-# 수행 프로젝트
-## [AI기반 파이썬 프로젝트](https://dongmisw.github.io/helloworld)
-## [spring 프로젝트](https://dongmisw.github.io/helloworld)
-
-git push complete
-
-[Naver 바로가기](https://www.naver.com)<br>
-
-동미의 동미대<br>
-<img src="dm.JPG"/><br>
-
-
-컴퓨터소프트웨어공학과 동영상 <br>
-<iframe width="640" height="260" src="https://www.youtube.com/embed/jsRqtnGOavk" title="[DMU]컴퓨터소프트웨어학과의 모든 것 A to Z🙋🏻🙋🏻‍♂️Speedy Q&amp;A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ eight="260" src="https://www.youtube.com/embed/jsRqtnGOavk" title="[DMU]컴퓨터소프트웨어학과의 모든 것 A to Z🙋🏻🙋🏻‍♂️Speedy Q&amp;A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
