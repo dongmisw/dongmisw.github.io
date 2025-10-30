@@ -1,6 +1,6 @@
 # dongmisw.github.io
 동미의 소프트웨어 개발 성장기
-
+# 11시53분 수정함
 
 # 🥗 밀키트(Meal Kit) 사업 플랫폼
 
