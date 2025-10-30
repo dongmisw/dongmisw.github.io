@@ -103,5 +103,3 @@
 
 > **문의:** contact@mealkit.com  
 > © 2025 MealKit Team. All Rights Reserved.
-
- eight="260" src="https://www.youtube.com/embed/jsRqtnGOavk" title="[DMU]컴퓨터소프트웨어학과의 모든 것 A to Z🙋🏻🙋🏻‍♂️Speedy Q&amp;A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
